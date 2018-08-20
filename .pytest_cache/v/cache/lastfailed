@@ -1,0 +1,5 @@
+{
+  "test_shopping_basket.py::test_add_item_to_basket": true,
+  "test_shopping_basket.py::test_answer": true,
+  "test_shopping_basket.py::test_items_exist_in_shopping_basket": true
+}
